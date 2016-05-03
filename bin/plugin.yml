@@ -1,0 +1,51 @@
+main: crownSurvival.BukkitArc
+name: ArcaneBasics
+version: 1.0.0
+description: Welcome message & basic commands
+Author: Agentred100 with help from other Bukkit devs
+commands:
+  greylist:
+    description: Greylist command
+  graylist:
+    description: Graylist command
+  help:
+    description: Arcane help
+  restart:
+    description: Staff command
+  map:
+    description: Display the dynmap link
+  username:
+    description: Display your username!
+  list:
+    description: Display a list of online users.
+  apply:
+    description: Display the application link.
+  forum:
+    description: Display the forum link.
+  mumble:
+    description: Display the mumble link.
+  dclem:
+    description: Dclem's command
+  bbycake:
+    description: bbycake's command
+  bby:
+    description: bby's command shortcut
+  f:
+    description: Admin command
+  g0:
+    description: Admin command
+  g1:
+    description: Admin command
+  g2:
+    description: Admin command
+  g3:
+    description: Admin command
+  donate:
+    description: Donation link
+  doge:
+    description: Doge command
+    
+permissions:
+  new:
+    description: Arcane 'new' permission
+    default: true
